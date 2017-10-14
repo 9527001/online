@@ -3,7 +3,7 @@
 
 ## 目录
 #### [推荐序（一）](https://github.com/9527001/online/blob/master/%E6%8E%A8%E8%8D%90%E5%BA%8F%EF%BC%88%E4%B8%80%EF%BC%89.md)
-#### [推荐序（二）]
+#### [推荐序（二）](https://github.com/9527001/online/blob/master/%E6%8E%A8%E8%8D%90%E5%BA%8F%EF%BC%88%E4%BA%8C%EF%BC%89.md)
 #### [推荐序（三）]
 ### [第一章 困惑、错位和纠结]
 #### [关于互联网和数据的困惑]
